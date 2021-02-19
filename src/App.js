@@ -5,7 +5,7 @@ function App() {
   return (
     <StyledForm>
       <form>
-        <input type="text" placeholder="Full name" />
+        <input type="text" placeholder="Full Name" />
         <input type="text" placeholder="Email" />
         <input type="text" placeholder="Password" />
         <input type="tel" placeholder="Phone Number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required/>
